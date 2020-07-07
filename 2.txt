@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 傻逼
+=======
+pullDome
+啊啊啊
+>>>>>>> d2a442f0f1566ccae5d98fc9a908c7fd8be9bc4a
